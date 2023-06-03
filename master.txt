@@ -1,0 +1,17 @@
+Statement of Purpose:
+
+The statement of purpose of this project is to analyse the effect of cashless policy on mobile banking in Nigeria by using sentiment analysis tools on large collection of tweets and also questionaires. This is to understand public opinions on the cashless policy being introduced and seek to draw insights into concern, acceptance or satisfaction of the public by critically understanding the public behaviour on Twitter.
+This study/ research will allow the government, financial institutions and other stakeholders in evaluating public opinions and guiding their judgements on how effective it would be and how this would guide their future improvements in implementations. Basically it helps them in better decison making process.
+
+Aims and Objectives:
+The aim of the project is to gather tweets of users, questionaires regarding cashless policy in Nigeria and also   analyse and categorise the data collected base on positive, negative or neutral response. By conducting a sentimental analyses on the tweets and questionaires collected, the aim is to understand general public opinions regarding cashless policy in Nigeria.
+The objectives are listed below:
+1. Gather data: This is achieved by gathering different tweets and questionaires response from users regarding cashlesspolicy for a given period, region and demographics to capture diverse range of opinions
+2. Data Cleaning:cleaning the gathered data by removing url, hashtags, unwanted information etc and prepare the data such that they are fit for analysis.
+3. Perform Sentiment Analysis: utilise the relevant sentiment analysis to classify sentiments based on individual opinions on cashless policy introduced in Nigeria by using machine learning algorithm.
+4. classify sentiments: This has to do with assigning labels(Negative, positive or neutral) to each data collected via tweets or questionaires results.
+5. Analyse Sentiment Distribution:understand the overall sentiments of tweeter users based on their cashless policy opinions by finding the percentage of positive, negative and neutral responses or opinion.
+6. Visualise Results:Create visualisation representations like charts, graphs etc. This helps in identifying patterns and trends.
+7. Draw Conclusion and Insights: The pattern and trends identified dueing visualization process can be used to draw insights and make apprpriate decisions.
+
+With the highligted objectives, the project aim is to identify patterns and trends based on the effect of cashless policy in Nigeria based on public opinions via tweets/ questionaires(call log) within a particular region(states) inorder to draw insights and conclusions.  
